@@ -1,0 +1,19 @@
+.button-row {
+  text-align: center;
+  margin: inherit;
+}
+
+.custom-button {
+  border-radius: 18px;
+  background: purple !important;
+  font-size: medium;
+  font-weight: bold;
+  border: none;
+}
+.btn-check:focus + .btn,
+.btn:focus {
+  box-shadow: none;
+}
+form label {
+  font-weight: bold;
+}

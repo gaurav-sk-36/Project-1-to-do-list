@@ -1,0 +1,27 @@
+.expense-filter {
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.year-filter {
+  margin-left: 15px;
+}
+
+.expense-filter label {
+  font-weight: bold;
+}
+
+.title-col {
+  margin: auto;
+}
+
+.title-content {
+  margin: 11px;
+  font-size: 21px;
+}
+
+.form-select {
+  display: inline;
+  width: 48%;
+}

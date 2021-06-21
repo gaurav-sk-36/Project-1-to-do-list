@@ -1,0 +1,47 @@
+.date-card {
+  width: 100px;
+  height: 100px;
+  background: #3e3d3d;
+  border-radius: 10px;
+  margin: 11px;
+  text-align: center;
+  color: white;
+}
+
+.date-card__month {
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.date-card__year {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 1px;
+}
+
+.date-card__day {
+  font-size: 23px;
+  font-weight: bold;
+  margin: 3px;
+}
+
+.title-card {
+  text-align: left;
+  margin: auto;
+}
+
+.amount-card {
+  margin: auto;
+  text-align: center;
+}
+
+.amount-card__amount {
+  font-size: 22px;
+  font-weight: bold;
+  width: 53%;
+  background: purple;
+  border-radius: 26px;
+  color: white;
+  margin: auto;
+}
